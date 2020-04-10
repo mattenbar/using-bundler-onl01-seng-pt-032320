@@ -11,4 +11,4 @@ gem "pry"
 end
 
 
-gem "rspec", group: :test
+gem "rspec", :group => :test
